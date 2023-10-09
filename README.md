@@ -6,7 +6,7 @@
   - [Hello World! ](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
-<h2>📺 Certifications</h2>
+<h2>📜 Certifications</h2>
 
 - [Foundations of Cybersecurity](https://coursera.org/share/091ccd8839ffda6bd43df975d51729b6)
 
