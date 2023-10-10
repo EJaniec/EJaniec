@@ -3,7 +3,7 @@
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
   - Completion of a Security Audit
-    - Place Link or File 
+    - Results:  Place Link or File 
 
   - [Active Directory Home Lab ]
     - Place Link 
