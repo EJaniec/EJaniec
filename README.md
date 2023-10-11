@@ -14,6 +14,7 @@
 <h2>📜 Certifications</h2>
 
 - [Foundations of Cybersecurity](https://coursera.org/share/091ccd8839ffda6bd43df975d51729b6)
+- [Play It Safe: Manage Security Risks] In Progress 
 
 <h2> 🤳 Connect with me:</h2>
 
