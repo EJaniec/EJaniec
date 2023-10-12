@@ -9,12 +9,12 @@
   <h2>  Education </h2>
 
   - MBA, Marketing, Lindenwood University
-    St. Charles MO 
+    -St. Charles MO 
     May 2023
     Cumulative GPA: 3.67/4.0
 
   - B.S., Business Administration, Mount St. Mary's University
-    Emmitsburg, MD
+    -Emmitsburg, MD
     May 2022
     Cumulative GPA: 3.2/4.0
     Honors: Deans List 2021
