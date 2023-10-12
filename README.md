@@ -4,15 +4,17 @@
   
 - I'm an alum of Mount St. Mary's University, where I earned my B.S. in Business Administration, and Lindenwood University, where I achieved an MBA in Marketing. 
   
-  Currently, I'm dedicated to enhancing my skills and knowledge by pursuing a Cybersecurity certification. My goal is to combine my background in business and marketing with my future expertise in Cybersecurity to make a significant impact in the field of military defense and contracting. I'm excited to explore opportunities in this dynamic and critical sector, where I can contribute my passion, education, and experience to help protect and support our nation's defense needs.
+  I am currently dedicated to enhancing my skills and knowledge by pursuing a Cybersecurity certification. My goal is to combine my background in business and marketing with my future expertise in Cybersecurity to make a significant impact in the field of military defense and contracting. I'm excited to explore opportunities in this dynamic and critical sector, where I can contribute my passion, education, and experience to help protect and support our nation's defense needs.
 
   <h2>  Education </h2>
 
-  - MBA, Marketing, Lindenwood University |  St. Charles MO 
+  - MBA, Marketing, Lindenwood University
+    St. Charles MO 
     May 2023
     Cumulative GPA: 3.67/4.0
 
-  - B.S., Business Administration, Mount St. Mary's University | Emmitsburg,MD
+  - B.S., Business Administration, Mount St. Mary's University
+    Emmitsburg, MD
     May 2022
     Cumulative GPA: 3.2/4.0
     Honors: Deans List 2021
