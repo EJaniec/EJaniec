@@ -1,8 +1,8 @@
 <h1>Hi, I'm Evan! 
 
-<h2> About Me </h2>h2>
+<h2> About Me </h2>
   
-  I'm an alum of Mount St. Mary's University with a B.S. in Business Administration and Lindenwood University with an MBA in Marketing! I am currently in the process of obtaining my Cybersecurity certification. Once obtained I would like to further my career at a militry defense/contracting company. 
+  I'm an alum of Mount St. Mary's University, where I earned my B.S. in Business Administration, and Lindenwood University, where I achieved an MBA in Marketing. Currently, I'm dedicated to enhancing my skills and knowledge by pursuing a Cybersecurity certification. My goal is to combine my background in business and marketing with my future expertise in Cybersecurity to make a significant impact in the field of military defense and contracting. I'm excited to explore opportunities in this dynamic and critical sector, where I can contribute my passion, education, and experience to help protect and support our nation's defense needs.
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
