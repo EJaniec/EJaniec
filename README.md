@@ -1,6 +1,6 @@
 <h1>Hi, I'm Evan! 
 
-About Me
+<h2> About Me <h2>
 
 -I'm an alum of Mount St. Mary's University with a B.S. in Business Administration and Lindenwood University with an MBA in Marketing! I am currently in the process of obtaining my Cybersecurity certification. Once obtianied I would like to further my carreer at a militry defense/contracting company. 
 
