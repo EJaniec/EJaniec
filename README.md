@@ -20,7 +20,8 @@
 <h2>📜 Certifications</h2>
 
 - [Foundations of Cybersecurity](https://coursera.org/share/091ccd8839ffda6bd43df975d51729b6)
-- Play It Safe: Manage Security Risks In Progress 
+- [Play It Safe: Manage Security Risks](https://coursera.org/share/0608efc8866e6600adcfb034ed6c18d7)
+- Connect and Protect: Networks and Network Security In Progress
 
 <h2> 🤳 Connect with me:</h2>
 
