@@ -10,10 +10,9 @@
 
   - Completion of a Security Audit
     - Results:  Place Link or File
-   
-  -Quiz Game 
-  -
-
+  
+ - [Quiz Game](https://github.com/EJaniec/Quiz-Game.git)
+    
   - [Active Directory Home Lab ]
     - Place Link 
   - [Hello World! ]
