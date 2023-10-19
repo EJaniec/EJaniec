@@ -10,11 +10,14 @@
 
   - Completion of a Security Audit
     - Results:  Place Link or File
+
+  - Python
   
- - [Quiz Game](https://github.com/EJaniec/Quiz-Game.git)
+     - [Quiz Game](https://github.com/EJaniec/Quiz-Game.git)
     
   - [Active Directory Home Lab ]
-    - Place Link 
+    - Place Link
+    - 
   - [Hello World! ]
     - Place Link 
 
