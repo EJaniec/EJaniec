@@ -8,9 +8,10 @@
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
-  - Completion of a Security Audit
-    - Results:  Place Link or File
+ - Google Cybersecurity Certification Projects
 
+     - [Completion of a Security Audit](https://github.com/EJaniec/Completion-of-a-Security-Audit.git)
+    
   - Python
   
      - [Quiz Game](https://github.com/EJaniec/Quiz-Game.git)
