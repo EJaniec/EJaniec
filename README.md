@@ -12,7 +12,7 @@
 
      - [Completion of a Security Audit](https://github.com/EJaniec/Completion-of-a-Security-Audit.git)
   
-     - [ File Permissions in Linux ] (https://github.com/EJaniec/File-permissions-in-Linux-)
+     - [ File Permissions in Linux ](https://github.com/EJaniec/File-permissions-in-Linux-)
     
   - Python
   
