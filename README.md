@@ -11,6 +11,8 @@
  - Google Cybersecurity Certification Projects
 
      - [Completion of a Security Audit](https://github.com/EJaniec/Completion-of-a-Security-Audit.git)
+  
+     - File Permissions in Linux
     
   - Python
   
