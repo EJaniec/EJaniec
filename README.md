@@ -12,9 +12,15 @@
 
      - [Completion of a Security Audit](https://github.com/EJaniec/Completion-of-a-Security-Audit.git)
   
+   - Tools of the Trade: Linux and SQL
+  
      - [ File Permissions in Linux ](https://github.com/EJaniec/File-permissions-in-Linux-)
   
      - [ Apply filters to SQL queries ](https://github.com/EJaniec/Apply-filters-to-SQL-queries)
+    
+   - Assets, Threats, and Vulnerabilites
+    
+     - [ Classify the assets connected to a home network ] 
      - 
     
   - Python
