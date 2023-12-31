@@ -20,7 +20,7 @@
     
    - Assets, Threats, and Vulnerabilites
     
-     - [ Classify the assets connected to a home network ] 
+     - [ Classify the assets connected to a home network ](https://github.com/EJaniec/Classify-the-assets-connected-to-a-home-network/blob/main/README.md)
      - 
     
   - Python
