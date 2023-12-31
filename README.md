@@ -14,7 +14,8 @@
   
      - [ File Permissions in Linux ](https://github.com/EJaniec/File-permissions-in-Linux-)
   
-     - [ Apply-filters-to-SQL-queries ]
+     - [ Apply-filters-to-SQL-queries ](https://github.com/EJaniec/File-permissions-in-Linux-/blob/main/File-permissions-in-Linux.pdf%5D(https://github.com/EJaniec/Apply-filters-to-SQL-queries/blob/main/Apply-filters-to-SQL-queries.pdf)https://github.com/EJaniec/Apply-filters-to-SQL-queries/blob/main/Apply-filters-to-SQL-queries.pdf)
+     - 
     
   - Python
   
