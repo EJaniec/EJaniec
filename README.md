@@ -11,8 +11,7 @@
  - Google Cybersecurity Certification Projects
 
      - [Completion of a Security Audit](https://github.com/EJaniec/Completion-of-a-Security-Audit.git)
-     - [ Splunk Core Certified Power User ] (TBA)
-  
+
    - Tools of the Trade: Linux and SQL
   
      - [ File Permissions in Linux ](https://github.com/EJaniec/File-permissions-in-Linux-)
