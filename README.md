@@ -41,6 +41,8 @@
 <h2>📜 Certifications</h2>
 
 - [Google Cybersecurity Specialization](https://coursera.org/share/a64cc3bda0480bbb9f6ae76d44169e99)
+- [Splunk Core Certified Power User ] (TBA)
+- 
 
 
 <h2> 🤳 Connect with me:</h2>
