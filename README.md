@@ -39,10 +39,8 @@
 
 <h2>📜 Certifications</h2>
 
-- [Foundations of Cybersecurity](https://coursera.org/share/091ccd8839ffda6bd43df975d51729b6)
-- [Play It Safe: Manage Security Risks](https://coursera.org/share/0608efc8866e6600adcfb034ed6c18d7)
-- [Connect and Protect: Networks and Network Security](https://coursera.org/share/cf4a22f10281f2fb8bc8f735cc5c323f)
-- [Tools of the Trade: Linux and SQL](https://coursera.org/share/e3c66389536bddbb6d2afbfb48be3239)
+- [Google Cybersecurity Specialization](https://coursera.org/share/a64cc3bda0480bbb9f6ae76d44169e99)
+
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -54,8 +52,6 @@
 
 [linkedin]: https://linkedin.com/in/evan-janiec
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
