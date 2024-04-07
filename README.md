@@ -26,7 +26,8 @@
      
      - [ Improve authentication, authorization, and accounting for a small business ](https://github.com/EJaniec/Activity-Improve-authentication-authorization-and-accounting-for-a-small-business/tree/main)
     
-  - ActiveDirectoryLab
+  - Active Directory Home Lab
+    - [Adding Users w PowerShell](https://github.com/EJaniec/ActiveDirectoryHomeLab)
     
   - Python
   
