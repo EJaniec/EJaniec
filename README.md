@@ -29,9 +29,7 @@
   - Active Directory Home Lab
     - [Adding Users w PowerShell](https://github.com/EJaniec/ActiveDirectoryHomeLab)
     
-  - Python
-  
-     - [Quiz Game](https://github.com/EJaniec/Quiz-Game.git)
+ 
     
 
 
